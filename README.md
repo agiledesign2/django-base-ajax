@@ -1,5 +1,5 @@
 # Django guide for implementing AJAX
-This is the example project for implementing Forms with Django.
+This is the example project for implementing Forms with Django and ajax.
 
 
 
@@ -7,7 +7,7 @@ This is the example project for implementing Forms with Django.
 - Clone repository
 
 	`
-	git clone https://github.com/agiledesign2/django-forms-examples.git
+	git clone https://github.com/agiledesign2/django-base-ajax.git
 	`
 
 - cd to repository.
